@@ -20,7 +20,7 @@ This project is a Spring Boot web application that utilizes Huffman coding for f
 
 - **Java:** Ensure you have Java installed. This project is developed and tested with Java 8 and later versions.
 
-- **Maven (or Gradle):** Build tools are used to manage dependencies and build the project. Ensure you have Maven or Gradle installed.
+- **Maven :** Build tools are used to manage dependencies and build the project. Ensure you have Maven or Gradle installed.
 
 - **Web Browser:** For accessing the user interface. The project is tested with modern web browsers like Chrome, Firefox, and Safari.
 
@@ -35,8 +35,8 @@ This project is a Spring Boot web application that utilizes Huffman coding for f
 - **Huffman Coding:**
   - Utilizes a separate class or method for Huffman coding compression (`Huffman.java`).
 
-- **Frontend (Not Provided):**
-  - Assumes the existence of a user interface using HTML and Thymeleaf for file upload and result display.
+- **Frontend:**
+  - The interface using HTML & CSS and Thymeleaf for file upload and result display.
 
 ## Getting Started
 
