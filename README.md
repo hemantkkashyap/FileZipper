@@ -20,7 +20,7 @@ This project is a Spring Boot web application that utilizes Huffman coding for f
 
 - **Java:** Ensure you have Java installed. This project is developed and tested with Java 8 and later versions.
 
-- **Maven :** Build tools are used to manage dependencies and build the project. Ensure you have Maven or Gradle installed.
+- **Maven :** Build tools are used to manage dependencies and build the project. Ensure you have Maven installed.
 
 - **Web Browser:** For accessing the user interface. The project is tested with modern web browsers like Chrome, Firefox, and Safari.
 
@@ -52,6 +52,27 @@ This project is a Spring Boot web application that utilizes Huffman coding for f
 3. Access the application in your web browser:
    ```bash
    http://localhost:8080
+
+## Using the Docker Image
+
+### Prerequisites
+- [Docker](https://www.docker.com/get-started) installed on your machine.
+
+### Pulling the Docker Image
+To use the Docker image for this project, follow these steps:
+
+1. Open a terminal.
+
+2. Run the following command to pull the Docker image from Docker Hub:
+   ```bash
+   docker pull hemantk5/file-zipper-springboot
+3. Check the list of locally available images to ensure the successful pull:
+   ```bash
+   docker images
+4. Once you have pulled the Docker image, you can run the container using the following steps:
+   ```bash
+   # Adjust the port mapping if needed
+   docker run -p 8080:8080 hemantk5/file-zipper-springboot
 
 # Usage
 
