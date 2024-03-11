@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Zipped</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="shortcut icon" href="/css/logo (2).png" type="image/x-icon">
+   
+</head>
+<body>
+   
+    <div id="navbar">
+        <img src="https://logowik.com/content/uploads/images/zipco3075.jpg" alt="logo">
+        <p>Developed by Hemant Kashyap</p>
+    </div>
+
+    <div class="contanier2">
+        <h1>File Zipped Successfully</h1>
+        <p>Download your zipped file: <a th:href="@{'/download/' + ${zipFileName}}">Download Zip File</a></p>    
+    </div>
+
+
+</body>
+</html>
