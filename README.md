@@ -5,9 +5,9 @@
 
 This project is a Spring Boot web application that utilizes Huffman coding for file compression. Users can upload files, which are then compressed using the Huffman coding algorithm and made available for download as a ZIP file.
 
-<img src="https://github.com/hemantkkashyap/FileZipper/assets/122628923/f3e07a97-5f69-4e0e-8db7-d17cbec8b7fd" alt="Project Image" width="400" height="300">
-<img src="https://github.com/hemantkkashyap/FileZipper/assets/122628923/4ac6a3a8-31b8-4c49-8925-89a148d2482b" alt="Project Image" width="400" height="300">
-<img src="https://github.com/hemantkkashyap/FileZipper/assets/122628923/76446196-e7f1-40bf-91ed-cf6d9564e959" alt="Project Image" width="400" height="300">
+<img src="https://github.com/hemantkkashyap/FileZipper/assets/122628923/f3e07a97-5f69-4e0e-8db7-d17cbec8b7fd" alt="Project Image" width="400" height="250">
+<img src="https://github.com/hemantkkashyap/FileZipper/assets/122628923/4ac6a3a8-31b8-4c49-8925-89a148d2482b" alt="Project Image" width="400" height="250">
+<img src="https://github.com/hemantkkashyap/FileZipper/assets/122628923/76446196-e7f1-40bf-91ed-cf6d9564e959" alt="Project Image" width="400" height="250">
 
 ## Features
 
